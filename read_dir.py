@@ -1,3 +1,8 @@
+##
+##
+## GPL to Generate all the files in each folder.
+##
+##
 import os 
 l=os.listdir("/home/unimauro/Develop/TDD-KATA") 
 
