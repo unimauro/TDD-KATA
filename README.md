@@ -5,3 +5,7 @@ All the KATAS are in :
 http://www.tddbuddy.com/
 
 Funny HACK
+
+
+carlos@cardenas.pe
+@unimauro
