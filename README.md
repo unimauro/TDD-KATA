@@ -8,4 +8,5 @@ Funny HACK
 
 
 carlos@cardenas.pe
-@unimauro
+
+twitter: @unimauro
